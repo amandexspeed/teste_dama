@@ -6,7 +6,7 @@ int main(void)
     const int telaLateral = 700;
     const int telaAltura = 700;
 
-    int chaveTeste = 00;
+    int chaveTeste = 0;
 
     int tabuleiro[8][8];
 
